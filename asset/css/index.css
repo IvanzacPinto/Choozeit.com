@@ -320,7 +320,7 @@ ul li:hover {
 }
 
 .li-list-b{
-    width: 17rem;
+    width: 55rem;
 }
 
 .li-list, .li-list-b:hover {
@@ -447,11 +447,12 @@ ul li:hover {
 }
 
 .hw-para-a{
+    font-size: 1rem;
     color: #fff;
     margin: 5rem;
-    margin-left: 45rem;
+    margin-left: 35rem;
     text-align: start;
-    width: 30rem;
+    width: 55rem;
 }
 
 /* IOT */
