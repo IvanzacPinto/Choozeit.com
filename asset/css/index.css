@@ -319,6 +319,10 @@ ul li:hover {
     transition: none;
 }
 
+.li-list-d{
+    width: 20rem;
+}
+
 .li-list-b{
     width: 55rem;
 }
@@ -763,7 +767,7 @@ ul li:hover {
         margin: 5rem 0 0 5rem;
     }
 
-    .li-list, .li-list-b, .sec-c-para, .sec-c-para-b{
+    .li-list, .li-list-b, .li-list-c, .sec-c-para, .sec-c-para-b{
         text-align: start;
     }
     
